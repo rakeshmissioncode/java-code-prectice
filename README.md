@@ -1,1 +1,1 @@
-# java-code-prectice
+# java-coding-practice
